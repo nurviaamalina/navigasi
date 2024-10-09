@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/item.dart';  // Mengimpor model Item
+import 'package:navigasi/models/item.dart';
 
 class ItemPage extends StatelessWidget {
   @override
